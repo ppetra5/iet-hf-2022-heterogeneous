@@ -33,9 +33,6 @@ import static com.google.common.collect.Iterables.any;
  */
 public final class Classes {
 
-	/**
-	 * No instances
-	 */
 	private Classes() {
 		throw new AssertionError();
 	}
